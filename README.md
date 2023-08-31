@@ -1,2 +1,0 @@
-# githubpages
-Utilizing Github Pages
